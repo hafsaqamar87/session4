@@ -1,0 +1,11 @@
+body{
+  background-color:rgb(226, 233, 248);
+}
+.box {
+  font-size: large;
+  height:500px;
+  background-color: rgb(202, 197, 197);
+}
+.daylight{
+  background-color: rgb(166, 205, 241);
+}
